@@ -16,7 +16,7 @@ syntax on
 set number
 
 " Enable relative line numbering mode 
-set relativenumber
+" set relativenumber
 
 " Always show the line status at the bottom 
 set laststatus=2
